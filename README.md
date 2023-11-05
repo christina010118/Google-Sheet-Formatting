@@ -9,3 +9,5 @@ Update spreadsheet formatting
 Manage Connected Sheets
 
 To utilize these code, users need to generate their own credentials from Google API.
+
+I also include a jupyter notebook file of formmating with Microsfot Excel.
